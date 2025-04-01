@@ -13,7 +13,7 @@ fn main() {
     // Print text to the console.
     println!("Hello World!");
    // println! is a macro that prints text to the console.
-    println!("This is my first rust program i have executed\nCompile the file with: rustc <file.rs> then run with ./<file.exe>")
+    println!("This is my first rust program I have executed\nCompile the file with: rustc <file.rs> then run with ./<file.exe>")
   // Macros in Rust are a feature that allows developers to write code that generates other code, a technique known as metaprogramming...
   //... They are evaluated at compile time, not runtime, which can lead to more efficient code
 }
